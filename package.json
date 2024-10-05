@@ -11,12 +11,15 @@
   },
   "dependencies": {
     "@tanstack/react-query-devtools": "^5.29.0",
+    "axios": "^1.7.7",
     "cors": "^2.8.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hook-form": "^7.53.0",
     "react-query": "^3.39.3",
     "react-router-dom": "^6.22.3",
     "react-spinners": "^0.13.8",
+    "rizzui": "^0.8.7",
     "yup": "^1.4.0"
   },
   "devDependencies": {
